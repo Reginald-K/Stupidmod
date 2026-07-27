@@ -27,6 +27,8 @@ public class ModCreativeModeTabs {
                                 pOutput.accept(ModItems.IRON_BRICK.get());
                                 pOutput.accept(Items.IRON_INGOT);
                                 pOutput.accept(ModBlocks.IRON_BRICKS.get());
+                                // Specifically not added in order to not show up in JEI. Might hide it using the JEI API later.
+                                // pOutput.accept(ModBlocks.WORKBENCH.get());
                             })
                             .build()
             );

@@ -6,4 +6,4 @@ Also includes some Easter eggs and QOL changes, that allows for more focus on so
 
 Not suitable for long term play.
 
-Work still in progress, currently contains 1 puzzle.
+Work still in progress, currently contains 2 puzzles.

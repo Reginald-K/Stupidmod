@@ -1,6 +1,9 @@
 {
   "item.stupidmod.iron_brick": "Iron Brick",
   "block.stupidmod.iron_bricks": "Iron Bricks",
+  "block.stupidmod.workbench": "Workbench",
+
+  "container.stupidmod.workbench": "Workbench",
 
   "creativetab.stupidmod_tab": "Stupid Items Tab"
 }
